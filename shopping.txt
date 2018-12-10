@@ -1,7 +1,7 @@
 |-----------------|
 |  Shopping List  |
 |-----------------|
-
+  * celery root
   * peanut butter
   * raisins
   * oats
